@@ -40,5 +40,22 @@ TMDB 5000 Movies Dataset — [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-
 ## Skills Demonstrated
 Exploratory data analysis · Feature engineering · Data cleaning · Statistical correlation · Data visualization · Python for finance and business analytics
 
-## Relevance to Financial Analytics
-The analytical techniques used in this project — regression analysis, ROI calculation, correlation analysis, and predictive trend modeling — are directly transferable to financial forecasting, risk assessment, and data-driven decision making in fintech and banking environments.
+## Preview
+
+![Top 25 Comedies](top25_comedy_revenue.png)
+
+![Budget vs Revenue](budget_vs_revenue.png)
+
+![Revenue by Year](revenue_by_year.png)
+
+![Revenue by Month](revenue_by_month.png)
+
+![Top 10 ROI](top10_roi_comedy.png)
+
+![Rating vs Revenue](rating_vs_revenue.png)
+
+## What I Learned
+- Budget size is a stronger predictor of comedy revenue than audience ratings
+- ROI analysis reveals hidden value in low-budget films that raw revenue figures miss
+- Seasonal release timing significantly impacts box office performance
+- Real-world datasets require substantial cleaning before analysis is possible
